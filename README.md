@@ -1,4 +1,4 @@
-<img width="1121" height="273" alt="reverse banner" src="https://github.com/user-attachments/assets/a6f80e4d-e801-42db-bcf7-c815230e6987" />
+<img src="https://github.com/user-attachments/assets/a6f80e4d-e801-42db-bcf7-c815230e6987" />
 
 # mpv-hold-to-reverse
 An mpv script that changes the direction of the video (and audio) to "backward" when the "," key is held for 0.2 seconds and reverts it to "forward" when released.
